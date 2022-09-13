@@ -40,7 +40,7 @@ You can choose programming language from the following list:
 | Swift      | _ grid: [[Int]]                            |
 | TypeScript | grid: number[][]                           |
 
-Code should contain just one function with name programmerPaths (if language does not support top-level function, you create a class with the name of your choice).
+Code should contain just one function with name **programmerPaths** (if language does not support top-level function, you create a class with the name of your choice).
 That function should take a grid of integers (see languages table above) as an input and return integer (number of paths).
 
 ## Code assessment criteria
