@@ -6,7 +6,7 @@ Your goal is to find all possible ways through the office from current programme
 
 ## Inputs
 
-On input you’ll get a m x n grid of integers, where each value could be:
+On input you’ll get a [ m x n ] grid of integers, where each value could be:
 * 1 – this would be a starting square. There will be exactly one starting square.
 * 2 – this would be an ending square. There will be exactly one ending square.
 * 0 – represents empty square, way to go!
